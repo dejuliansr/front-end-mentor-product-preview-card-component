@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - Desktop
 
-![image](https://github.com/user-attachments/assets/608e85b8-eadf-4bf6-9fe9-38bdbac1c50f)
+![image](https://github.com/user-attachments/assets/ed711953-bdcf-4656-a405-9cb02427926c)
 
 - Mobile
 
